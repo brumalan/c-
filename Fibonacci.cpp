@@ -7,7 +7,7 @@ int main(){
     cin >> T;
     for (int i=0; i<T; i++){
         cin >> N;
-        int vet[N];
+        unsign long long vet[N];
         vet[0] = 0;
         vet[1] = 1;
         if (N == 0){
